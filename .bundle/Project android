@@ -1,0 +1,1 @@
+: repository { maven{ url "https://a8c-libs.s3.amazonaws.com/android } "jitpack is used to fetch the ucrop library Required only for grawatar-ui module. Maven{ url "https ://jitpack.io content{ includemodule("com.github.yalantis",'ucrop)                              }             }}                
